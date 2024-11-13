@@ -29,7 +29,7 @@ global.usePairingCode = true
 const Xaphicalips = "`"
 //+---------[ Bot Settings ]---------+//
 global.ownername = 'Xyroo Aphocalips'
-global.owner = ['966548012436'] //Ubah Nomor Mu
+global.owner = ['2348022159244'] //Ubah Nomor Mu
 global.botname = '𝐙𝐞͢𝐮ᯭ𝐬 ᝄ 𝐀𝐩𝐡͢𝐨𝐜ᯭ𝐚𝐥𝐢͢𝐩𝐬 𐱃'
 global.packname = 'Aphocalips Travazap'
 global.author = `Xyroo Aphocalips`
